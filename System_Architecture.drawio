@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="Q8LWMDxcXd4QI-VMnmBp" name="Page-1">
+        <mxGraphModel dx="1096" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;🗂️&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Sources&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;Customer orders&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Rider GPS data,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;External datasets,&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;Marketing engagement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="66" y="20" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; text-align: left;&quot;&gt;🧹&amp;nbsp;&lt;/span&gt;Data Processing Layer&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🧹&amp;nbsp;Data cleaning&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🗃️ Storage,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;⚙️ ETL Pipeline&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="336" y="10" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="1" source="8" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; text-align: left;&quot;&gt;🤖&amp;nbsp;&lt;/span&gt;Machine Learning Layer&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🔮Demand prediction model&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🗺️ Route optimization model&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;📈 Model evaluation&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;♻️ Model retraining&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="616" y="10" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="10" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; text-align: left;&quot;&gt;📱&amp;nbsp;&lt;/span&gt;Application Layer&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;⚙️ REST API (FastAPI)&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🧭 Frontend dashboard&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;📱 &lt;span data-end=&quot;1419&quot; data-start=&quot;1405&quot;&gt;Mobile app&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span data-end=&quot;1419&quot; data-start=&quot;1405&quot;&gt;&lt;b&gt;🖥️ &lt;/b&gt;&lt;span style=&quot;&quot; data-end=&quot;1439&quot; data-start=&quot;1428&quot;&gt;Web app&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span data-end=&quot;1419&quot; data-start=&quot;1405&quot;&gt;&lt;span style=&quot;&quot; data-end=&quot;1439&quot; data-start=&quot;1428&quot;&gt;📡 Real-time order tracking&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="896" y="10" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; text-align: left;&quot;&gt;📊&amp;nbsp;&lt;/span&gt;Analytics &amp;amp; Feedback&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🔥 Demand heatmaps&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🚴‍♂️ Rider Performance&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;🔁 Model retraining&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="456" y="430" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="216" y="150" as="sourcePoint"/>
+                        <mxPoint x="646" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;exitX=0.395;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="596" y="280" as="sourcePoint"/>
+                        <mxPoint x="526" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=classic;html=1;entryX=0.56;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="576" y="160" as="sourcePoint"/>
+                        <mxPoint x="646" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

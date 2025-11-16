@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+faker
+geopy
+jupyter
+notebook
