@@ -84,11 +84,11 @@ The project aims to:
 ## System Architecture
 
 Below is the high-level architecture of the platform:
-![System Architecture](./assets/system_architecture.png)
+![System Architecture](./documentation/guide/assets/system_architecture.png)
 
 ## Data Architecture
 
-![Data Architecture](./assets/data_architecture.png)
+![Data Architecture](./documentation/guide/assets/data_architecture.png)
 
 ## 🔍 Features
 
