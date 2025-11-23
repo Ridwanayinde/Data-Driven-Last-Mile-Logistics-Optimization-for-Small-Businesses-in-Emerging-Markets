@@ -200,22 +200,26 @@ python assign_riders.py
 
 ```css
 
-├── data/
-├── notebooks/
-├── src/
-│  ├── generate_orders.py
-│   ├── preprocess.py
-│   ├── train_model.py
-│   ├── assign_riders.py
-├── diagrams/
-│   ├── system_architecture.drawio
-│   ├── data_architecture.drawio
+├── 0_domain_study/
+├── 1_domain_study/
+├── 1_dataset/
+├── 2_data_preparation/
+├── 3_data_exploration/
+├── 4_data_analysis/
+├── 5_communication_strategy/
+│── 6_final_presentation/
+│── documentation/
+│   ├── guide/
 ├── README.md
 └── retrospective.md (for MIT milestones)
 
 ```
 
 ## 📌 MIT Emerging Talent Workflow
+
+- Project Structure
+
+Milestone 0 - Project Structure
 
 Milestone 1 (Problem Identification)
 
