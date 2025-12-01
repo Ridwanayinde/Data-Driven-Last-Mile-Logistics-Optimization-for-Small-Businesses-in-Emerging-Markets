@@ -12,6 +12,29 @@ improve customer experience in challenging logistics environments.
 
 This project is developed as part of the MIT Emerging Talent Program, Milestone 1–5.
 
+## 🎯 Project Scope
+
+While the broader project explores improving last-mile delivery performance through predictive
+analytics, intelligent dispatching, and data-driven logistics for small businesses in emerging
+markets, this version focuses specifically on route optimization using geospatial data and
+algorithmic delivery planning.
+
+Key objectives in this scoped version:
+
+- Prepare and clean geospatial data, including service area boundaries, road networks, and delivery points.
+
+- Build a routable road network graph from OpenStreetMap data for Lagos.
+
+- Cluster delivery points using data-science methods to assign routes efficiently.
+
+- Generate and evaluate optimized delivery routes, comparing them to baseline (naive) routing.
+
+- Visualize routes and summary metrics to demonstrate improvements in distance, stops, and potential delivery efficiency.
+
+This focused implementation provides a reproducible, data-driven workflow that demonstrates measurable
+improvements in last-mile delivery routing and serves as a foundation for potential future extensions,
+including demand forecasting, inventory planning, and broader logistics optimization.
+
 ## 🧩 Motivation
 
 During my undergraduate years, I founded Tomori Foods, a small food business serving customers in
@@ -80,11 +103,6 @@ The project aims to:
   6. Provide a foundation for a real-time dashboard
 
   7. Document insights using MIT milestone workflows
-
-## System Architecture
-
-Below is the high-level architecture of the platform:
-![System Architecture](./documentation/guide/assets/system_architecture.png)
 
 ## Data Architecture
 

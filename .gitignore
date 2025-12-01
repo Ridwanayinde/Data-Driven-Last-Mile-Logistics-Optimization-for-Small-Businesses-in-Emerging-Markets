@@ -33,3 +33,14 @@ models/
 *.pkl
 *.h5
 *.joblib
+
+# OSM files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.zip
+*.7z
+*.rar
+
